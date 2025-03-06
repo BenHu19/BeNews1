@@ -1,0 +1,21 @@
+<!-- Since I choose to make news website, in this index.html file will be for the news briefing page.
+ As required, there will be navbar using nav tag, where it utilize fontawesome icons for hamburger toggle and 
+ magnifying glass. For layout, as specify there are combination of both grid and flexbox, also
+ in total for this page I use 1 hero image, 4 medium images, 4 small images, and the logo.
+ The structure of page include navbar, header, main contents (sections and articles), and footer. -->
+
+<!-- For the layout, there 2 main separation, first is for the hero grid, then the main-content.
+ For hero grid, I basically use grid to separate hero div and stacking small images on the side
+ using flex and making it turn from flex-direction column initially to row when screen get resized.
+ Thus, I'm not leaving much empty spaces on the sides of the hero image and maintain the page
+ responsiveness. For main-content, I included 4 medium size images in a repeat defined grid
+ with autofit and minmax feature so it remain responsive as well. -->
+
+ <!-- In article.html, essentially I structured the page very similar to index. The page is intented for the specified
+ news article where user pick to read. Layouts are similar, in fact, I reuse the hero grid styling from index applied here,
+ to allign with requirements of total images included and maintain responsiveness. Though, for now there's only one article 
+ for every news page linked with which is its main limitation.-->
+
+ <!-- Overall, it's very much alike in structures and layouts to index.html, though I will say it's definitely
+ not my best work, I get very annoyed when often times I find there are empty spaces that just pop out of nowhere.
+ I don't know why! but I do my best to ensure everything fits with requirements. -->
